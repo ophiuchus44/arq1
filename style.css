@@ -1,0 +1,26 @@
+#canvas
+{
+    background-color:#30c0df;
+    border: 4px solid black;
+    display: block;
+    margin: auto;
+    padding: auto;
+    
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  padding: 10px;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
